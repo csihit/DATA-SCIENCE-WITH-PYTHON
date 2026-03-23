@@ -21,7 +21,8 @@ This repository contains all the **notebooks (.ipynb files)** used during the wo
 - `Numpy1.ipynb` → Basics of NumPy
 - `Numpy2.ipynb` → Advanced NumPy  
 - `Numpy_and_Pandas.ipynb` → Combined concepts  
-- `Numpy_and_pandas_2.ipynb` → Practice notebook  
+- `Numpy_and_pandas_2.ipynb` → Practice notebook
+- `Project_Heart_Disease_Prediction` → Mini project
 - `Heart_Disease_Prediction.csv` → Dataset  
 
 ---
